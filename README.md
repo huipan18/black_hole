@@ -11,14 +11,6 @@ I'm writing this as I'm beginning this project (hopefully I complete it ;D) here
 I hope it works :/
 
 
-
-Edit: After completion of project - 
-
-Thank you everyone for checking out the video, if you haven't it explains code in detail: https://www.youtube.com/watch?v=8-B6ryuBkCM
-
-Quickly to run the file you should install opengl (GLFW) and OpenGL wrangler GLEW: https://glew.sourceforge.net/
-I'm on windows and used msys2 for installation though.
-
 How the code works:
 
 for 2D: simple, just run 2D_lensing.cpp with the nessesary dependencies installed.
